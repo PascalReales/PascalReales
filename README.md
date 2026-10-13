@@ -28,3 +28,10 @@ Me encanta aprender nuevas tecnologías, experimentar con servidores Linux, crea
 ![linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
+## 🎯 Objetivos
+
+✅ Finalizar SMR  
+✅ Acceder al ciclo superior de ASIR  
+✅ Especializarme en Ciberseguridad y Administración de Sistemas  
+✅ Seguir aprendiendo y desarrollando proyectos personales
