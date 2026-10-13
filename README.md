@@ -29,6 +29,12 @@ Me encanta aprender nuevas tecnologías, experimentar con servidores Linux, crea
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
+## 🚀 Projectes
+
+### Practiques de xarxes
+
+Projectes i practiques durant el cicle de SMX, treballant amb configuració de xarxes sobre packet tracer, TCP/IP, RIP
+
 ## 🎯 Objetivos
 
 ✅ Finalizar SMR  
