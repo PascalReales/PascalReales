@@ -8,11 +8,14 @@
 
 ## 🧑‍💻 Sobre mí
 
-Actualmente estudiando un grado medio de SMR, me gustaria seguir estudiando un grado superior de ASIR.
-M'apasiona l'informatica, las redes, linux i la ciberseguridad
+Soy un estudiante apasionado por la informática, la administración de sistemas y las redes. Actualmente estoy cursando SMR y me gustaría continuar mi formación con ASIR para especializarme en infraestructuras, servidores y ciberseguridad.
 
-## 🚀 Lenguajes y Herramientas
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)
+Me encanta aprender nuevas tecnologías, experimentar con servidores Linux, crear entornos virtualizados y ampliar mis conocimientos sobre redes y seguridad informática.
+
+---
+
+## 🚀 Tecnologías y Herramientas
+
+### 🌐 Desarrollo Web
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
