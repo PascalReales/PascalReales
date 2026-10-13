@@ -6,7 +6,8 @@
 
 ## Sobre mí
 
-Actualmente estudiando un grado medio de SMR, me gustaria seguir estudiando un grado superior de ASIR
+Actualmente estudiando un grado medio de SMR, me gustaria seguir estudiando un grado superior de ASIR.
+M'apasiona l'informatica, las redes, linux i la ciberseguridad
 
 ## 🚀 Lenguajes y Herramientas
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
