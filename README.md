@@ -31,7 +31,7 @@ Me encanta aprender nuevas tecnologías, experimentar con servidores Linux, crea
 
 ## 🚀 Proyectos
 
-### Practiques de redes
+### Practicas de redes
 
 Proyectos y prácticas durante el curso SMX, trabajando con configuraciones de red en Packet Tracer, TCP/IP y RIP.
 
